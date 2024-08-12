@@ -6,7 +6,7 @@ import NotFound from './pages/NotFound'
 
 import './App.css'
 import { Routes } from 'react-router-dom'
-import Home from './pages/home'
+import Home from './pages/Home'
 
 function App() {
 
